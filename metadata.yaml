@@ -1,0 +1,26 @@
+_repo: In-this-our-world_60481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilman, Charlotte Perkins
+    aliases:
+    - Perkins, Charlotte Anna
+    - Stetson, Charlotte Perkins
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '27'
+    url: http://www.gutenberg.org/2009/agents/27
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+description: ''
+gutenberg_issued: '2019-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In this our world
+url: http://www.gutenberg.org/ebooks/60481
